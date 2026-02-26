@@ -11,6 +11,9 @@
   <img align="center" alt="pablo-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 </div> 
 
+## Certificações
+ ![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=for-the-badge&logo=azure&logoColor=white&labelColor=0078D4)
+ 
 ## Contate-me
 <div>
  <a href='https://www.linkedin.com/in/pablopereirapz/'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
